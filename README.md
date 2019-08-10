@@ -112,7 +112,7 @@ To compile and view the vue example run:
 and then open the examples-frameworks\vue\vue.html
 
 ## React Framework Example:
-To compile and view the vue example run:
+To compile and view the React example run:
 
 	node_modules\.bin\webpack --config examples-frameworks\react\webpack.config.js
 
